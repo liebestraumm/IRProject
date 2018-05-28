@@ -1,0 +1,336 @@
+H:\IRpr\IR_project\IR_project\bin\Debug\IR_project.exe.config
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+H:\IRpr\IR_project\IR_project\bin\Debug\IR_project.exe
+H:\IRpr\IR_project\IR_project\bin\Debug\IR_project.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.exe
+H:\IRpr\IR_project\IR_project\obj\Debug\IR_project.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Common.Logging.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+H:\IRpr\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Common.Logging.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+H:\IRpr\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+H:\IRpr\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+C:\IR_project\IR_project\bin\Debug\IR_project.exe.config
+C:\IR_project\IR_project\obj\Debug\IR_project.exe
+C:\IR_project\IR_project\obj\Debug\IR_project.pdb
+C:\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+C:\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+C:\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+C:\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+C:\IR_project\IR_project\bin\Debug\IR_project.exe
+C:\IR_project\IR_project\bin\Debug\IR_project.pdb
+C:\IR_project\IR_project\bin\Debug\Common.Logging.dll
+C:\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+C:\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+C:\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+C:\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+C:\IR_project\IR_project\bin\Debug\Common.Logging.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+C:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+C:\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+C:\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+C:\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\IR_project.exe.config
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.exe
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\IR_project.exe
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\IR_project.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Common.Logging.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Common.Logging.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+C:\Users\Aidin\Desktop\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\Aidin\Desktop\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\IR_project.exe.config
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\IR_project.exe
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\IR_project.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Common.Logging.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Common.Logging.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.exe
+C:\Users\rew90\Documents\QUT CLASSES - SEMESTER 2\ADVANCED INFORMATION RETRIEVAL\IR_project\IR_project\obj\Debug\IR_project.pdb
+D:\IR_project\IR_project\bin\Debug\IR_project.exe.config
+D:\IR_project\IR_project\obj\Debug\IR_project.exe
+D:\IR_project\IR_project\obj\Debug\IR_project.pdb
+D:\IR_project\IR_project\bin\Debug\IR_project.exe
+D:\IR_project\IR_project\bin\Debug\IR_project.pdb
+D:\IR_project\IR_project\bin\Debug\Common.Logging.dll
+D:\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+D:\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+D:\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+D:\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+D:\IR_project\IR_project\bin\Debug\Common.Logging.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+D:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+D:\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+D:\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+D:\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+D:\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+D:\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+D:\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+D:\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+F:\IR_project\IR_project\bin\Debug\IR_project.exe.config
+F:\IR_project\IR_project\bin\Debug\IR_project.exe
+F:\IR_project\IR_project\bin\Debug\IR_project.pdb
+F:\IR_project\IR_project\bin\Debug\Common.Logging.dll
+F:\IR_project\IR_project\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.dll
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.dll
+F:\IR_project\IR_project\bin\Debug\Remotion.Linq.dll
+F:\IR_project\IR_project\bin\Debug\Spatial4n.Core.dll
+F:\IR_project\IR_project\bin\Debug\Common.Logging.pdb
+F:\IR_project\IR_project\bin\Debug\Common.Logging.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Analyzers.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Core.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Highlighter.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Memory.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Queries.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Regex.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Snowball.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+F:\IR_project\IR_project\bin\Debug\Lucene.Net.Linq.xml
+F:\IR_project\IR_project\bin\Debug\Remotion.Linq.xml
+F:\IR_project\IR_project\bin\Debug\Spatial4n.Core.pdb
+F:\IR_project\IR_project\bin\Debug\Spatial4n.Core.xml
+F:\IR_project\IR_project\obj\Debug\IR_project.csprojResolveAssemblyReference.cache
+F:\IR_project\IR_project\obj\Debug\IR_project.Form1.resources
+F:\IR_project\IR_project\obj\Debug\IR_project.Properties.Resources.resources
+F:\IR_project\IR_project\obj\Debug\IR_project.csproj.GenerateResource.Cache
+F:\IR_project\IR_project\obj\Debug\IR_project.exe
+F:\IR_project\IR_project\obj\Debug\IR_project.pdb
