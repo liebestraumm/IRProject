@@ -1,2 +1,2 @@
 # IRProject
-Information Retrieval System that retrieves academic transcripts. QUT Project Assesment. Built in C#
+Information Retrieval System that retrieves academic publications. QUT Project Assesment. Built in C#
